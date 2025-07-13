@@ -1,5 +1,6 @@
 import time
 print("Ak is here")
+print("Ak is here")
 class ContinuousScript:
     def __init__(self):
         self.running = True
